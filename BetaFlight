@@ -1,0 +1,1 @@
+本文件夹存储BetaFlight的固件以及config，并且给出每个版本的陀螺仪驱动代码，用户可以直接替换进src/main/drivers/accgyro中进行编译。
