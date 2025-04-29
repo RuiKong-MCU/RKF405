@@ -35,6 +35,9 @@
 #define USE_BARO_DPS310
 #define USE_BARO_BMP280
 
+#define USE_MAG
+#define USE_MAG_HMC5883
+
 #define USE_FLASH
 #define USE_FLASH_W25Q128FV
 
